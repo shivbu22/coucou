@@ -18,3 +18,12 @@ DerivedData/
 # Local only (never published)
 .claude/
 _prive/
+
+node_modules/
+.venv/
+venv/
+.env
+__pycache__/
+windows/target/release/deps/coucou_lib.lib
+windows/target/release/deps/libcoucou_lib.rlib
+windows/target/release/deps/libwindows-2e5e51ed2a39d06a.rlib
